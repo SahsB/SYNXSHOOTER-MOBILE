@@ -13,6 +13,6 @@ Final Project of [Digital System Design and Lab 2016, NTU CSIE]
 
 #### App Demo ( Just a controll )
 ![alt tag](https://github.com/SahsB/SYNXSHOOTER-MOBILE/blob/master/flow.gif)
-[//]:
-   [Digital System Design and Lab 2016, NTU CSIE]: <https://sites.google.com/site/digitalsystemdesignandlab2016/home>
-   [HERE]: <https://github.com/SahsB/SYNXSHOOTER>
+
+[Digital System Design and Lab 2016, NTU CSIE]: <https://sites.google.com/site/digitalsystemdesignandlab2016/home>
+[HERE]: <https://github.com/SahsB/SYNXSHOOTER>
