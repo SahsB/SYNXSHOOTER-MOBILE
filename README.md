@@ -1,7 +1,7 @@
-# SYNX SHOOTER MOBILE
-Mobile side of DSDL final project, 2016 spring, NTU.
+# SYNXSHOOTER MOBILE
+Final Project of [Digital System Design and Lab 2016, NTU CSIE]
 
-#### Server & Web Side Code in <a href="https://github.com/TEMU3000/DSDL">Here</a>
+#### Server & Web Side Code [HERE]
 
 #### Features
 - Movement detection  
@@ -12,4 +12,7 @@ Mobile side of DSDL final project, 2016 spring, NTU.
 - Gameover animation
 
 #### App Demo ( Just a controll )
-![alt tag](https://github.com/TEMU3000/DSDL_Android/blob/master/flow.gif)
+![alt tag](https://github.com/SahsB/SYNXSHOOTER-MOBILE/blob/master/flow.gif)
+[//]:
+   [Digital System Design and Lab 2016, NTU CSIE]: <https://sites.google.com/site/digitalsystemdesignandlab2016/home>
+   [HERE]: <https://github.com/SahsB/SYNXSHOOTER>
